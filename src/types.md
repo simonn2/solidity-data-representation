@@ -14,7 +14,7 @@ advance.
 
 A variable of *pointer type* holds a reference to another multivalue or lookup
 variable to be found elsewhere.  They never point to variables of direct type or
-other variables of pointer type.  (Note that pointers are not, in Solidity, an
+other variables of pointer type.  (Note that pointers are not in Solidity, an
 actual type separate from that of what they point to, but they're useful to
 consider as a separate type here.)
 
